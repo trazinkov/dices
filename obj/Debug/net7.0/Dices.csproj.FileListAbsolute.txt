@@ -1,0 +1,15 @@
+C:\Anatoly\Profi\C#\Tests\Dices\bin\Debug\net7.0\Dices.exe
+C:\Anatoly\Profi\C#\Tests\Dices\bin\Debug\net7.0\Dices.deps.json
+C:\Anatoly\Profi\C#\Tests\Dices\bin\Debug\net7.0\Dices.runtimeconfig.json
+C:\Anatoly\Profi\C#\Tests\Dices\bin\Debug\net7.0\Dices.dll
+C:\Anatoly\Profi\C#\Tests\Dices\bin\Debug\net7.0\Dices.pdb
+C:\Anatoly\Profi\C#\Tests\Dices\obj\Debug\net7.0\Dices.csproj.AssemblyReference.cache
+C:\Anatoly\Profi\C#\Tests\Dices\obj\Debug\net7.0\Dices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Anatoly\Profi\C#\Tests\Dices\obj\Debug\net7.0\Dices.AssemblyInfoInputs.cache
+C:\Anatoly\Profi\C#\Tests\Dices\obj\Debug\net7.0\Dices.AssemblyInfo.cs
+C:\Anatoly\Profi\C#\Tests\Dices\obj\Debug\net7.0\Dices.csproj.CoreCompileInputs.cache
+C:\Anatoly\Profi\C#\Tests\Dices\obj\Debug\net7.0\Dices.dll
+C:\Anatoly\Profi\C#\Tests\Dices\obj\Debug\net7.0\refint\Dices.dll
+C:\Anatoly\Profi\C#\Tests\Dices\obj\Debug\net7.0\Dices.pdb
+C:\Anatoly\Profi\C#\Tests\Dices\obj\Debug\net7.0\Dices.genruntimeconfig.cache
+C:\Anatoly\Profi\C#\Tests\Dices\obj\Debug\net7.0\ref\Dices.dll

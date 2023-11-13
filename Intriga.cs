@@ -3,7 +3,8 @@ using System.Threading;
 
 namespace Dices {
     class Intriga {
-        // Return results of throw dices with time
+        // Return results of throw dices with time,
+        //or another string massive
         
         private int timeSleep;
         private string[] strings;
@@ -13,17 +14,29 @@ namespace Dices {
             System.Console.WriteLine("After sleep");
         }
         public Intriga(string[] strings, int timeSleep) {
-            System.Console.WriteLine("Constructor: Intriga instance initialized");
-            System.Console.WriteLine("  Strings = " + strings);
-            System.Console.WriteLine("  timeSleep = " + timeSleep);
-            MassiveUnits.printMassivaAsLine(
-                new string [] {"12", "13", "14"},
-                "   ");
-            MassiveUnits.printMassivaAsColumn(
-                new string [] {"12", "13", "14"},
-                "       ");
             this.strings = strings;
             this.timeSleep = timeSleep;
+            System.Console.WriteLine(
+                "Constructor: Intriga instance initialized:");
+            System.Console.Write(
+                "  * Strings = ");
+            MassiveUnits.printMassiv(this.strings);
+            System.Console.WriteLine("  * timeSleep = " + timeSleep);
+            // MassiveUnits.printMassiv(
+            //     new string [] {"12", "13", "14"},
+            //     "   ",
+            //     EPrintingTypes.Line);
+            // MassiveUnits.printMassiv(
+            //     new string [] {"12", "13", "14"},
+            //     "       ",
+            //     EPrintingTypes.Column);
+        }
+        public void printIntriga(string prefix){
+            foreach (string stringElement in this.strings){
+                Thread.Sleep(this.timeSleep);
+                System.Console.WriteLine(prefix + stringElement);
+                
+            }
         }
     }
 }

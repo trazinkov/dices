@@ -13,3 +13,18 @@ C:\Anatoly\Profi\C#\Tests\Dices\obj\Debug\net7.0\refint\Dices.dll
 C:\Anatoly\Profi\C#\Tests\Dices\obj\Debug\net7.0\Dices.pdb
 C:\Anatoly\Profi\C#\Tests\Dices\obj\Debug\net7.0\Dices.genruntimeconfig.cache
 C:\Anatoly\Profi\C#\Tests\Dices\obj\Debug\net7.0\ref\Dices.dll
+E:\Arch\64 С#\Dices\bin\Debug\net7.0\Dices.exe
+E:\Arch\64 С#\Dices\bin\Debug\net7.0\Dices.deps.json
+E:\Arch\64 С#\Dices\bin\Debug\net7.0\Dices.runtimeconfig.json
+E:\Arch\64 С#\Dices\bin\Debug\net7.0\Dices.dll
+E:\Arch\64 С#\Dices\bin\Debug\net7.0\Dices.pdb
+E:\Arch\64 С#\Dices\obj\Debug\net7.0\Dices.csproj.AssemblyReference.cache
+E:\Arch\64 С#\Dices\obj\Debug\net7.0\Dices.GeneratedMSBuildEditorConfig.editorconfig
+E:\Arch\64 С#\Dices\obj\Debug\net7.0\Dices.AssemblyInfoInputs.cache
+E:\Arch\64 С#\Dices\obj\Debug\net7.0\Dices.AssemblyInfo.cs
+E:\Arch\64 С#\Dices\obj\Debug\net7.0\Dices.csproj.CoreCompileInputs.cache
+E:\Arch\64 С#\Dices\obj\Debug\net7.0\Dices.dll
+E:\Arch\64 С#\Dices\obj\Debug\net7.0\refint\Dices.dll
+E:\Arch\64 С#\Dices\obj\Debug\net7.0\Dices.pdb
+E:\Arch\64 С#\Dices\obj\Debug\net7.0\Dices.genruntimeconfig.cache
+E:\Arch\64 С#\Dices\obj\Debug\net7.0\ref\Dices.dll

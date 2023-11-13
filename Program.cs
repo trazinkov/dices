@@ -3,7 +3,7 @@
 namespace Dices {
     class Program{
         static void Main(){
-            System.Console.WriteLine("Hello");
+            System.Console.WriteLine("------------------------------------------------------------");
             // Dices glass_test = new Dices();
             // Dices glass_test2 = new Dices(6,5);
             // glass_test2.ShowResult();

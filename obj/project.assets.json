@@ -8,23 +8,23 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\RazinkovAna\\.nuget\\packages\\": {},
+    "C:\\Users\\Tolya\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Anatoly\\Profi\\C#\\Tests\\Dices\\Dices.csproj",
+      "projectUniqueName": "E:\\Arch\\64 С#\\Dices\\Dices.csproj",
       "projectName": "Dices",
-      "projectPath": "C:\\Anatoly\\Profi\\C#\\Tests\\Dices\\Dices.csproj",
-      "packagesPath": "C:\\Users\\RazinkovAna\\.nuget\\packages\\",
-      "outputPath": "C:\\Anatoly\\Profi\\C#\\Tests\\Dices\\obj\\",
+      "projectPath": "E:\\Arch\\64 С#\\Dices\\Dices.csproj",
+      "packagesPath": "C:\\Users\\Tolya\\.nuget\\packages\\",
+      "outputPath": "E:\\Arch\\64 С#\\Dices\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\RazinkovAna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Tolya\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
